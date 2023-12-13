@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kP/tnGb8njy33t9Qr7TWEhCbFY6BLuGQyj8Zg9QHQdM=",
+  "Source": "Metrices-psql",
+  "BasePath": "_content/Metrices-psql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

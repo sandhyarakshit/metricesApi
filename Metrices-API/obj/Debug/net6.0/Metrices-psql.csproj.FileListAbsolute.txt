@@ -1,0 +1,1582 @@
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\appsettings.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.exe
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.deps.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.runtimeconfig.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.pdb
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.AssemblyReference.cache
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfoInputs.cache
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfo.cs
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CoreCompileInputs.cache
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.Metrices-psql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.build.Metrices-psql.props
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Metrices-psql.props
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Metrices-psql.props
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\scopedcss\bundle\Metrices-psql.styles.css
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CopyComplete
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\refint\Metrices-psql.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.pdb
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.genruntimeconfig.cache
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\obj\Debug\net6.0\ref\Metrices-psql.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Core.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Concurrency.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Core.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Configuration.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Hosting.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Ascii.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Json.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Prometheus.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\vg3\source\repos\Metrices-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\appsettings.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.exe
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.deps.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.runtimeconfig.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.pdb
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Core.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Concurrency.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Core.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Configuration.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Hosting.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Ascii.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Json.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Prometheus.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Humanizer.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.AssemblyReference.cache
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfoInputs.cache
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfo.cs
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CoreCompileInputs.cache
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.Metrices-psql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.build.Metrices-psql.props
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Metrices-psql.props
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Metrices-psql.props
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\scopedcss\bundle\Metrices-psql.styles.css
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CopyComplete
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\refint\Metrices-psql.dll
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.pdb
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.genruntimeconfig.cache
+C:\Users\B.o.r.n_star\Source\Repos\Vikas-22\Metrics-psql\Metrices-psql\obj\Debug\net6.0\ref\Metrices-psql.dll
+C:\Users\B.o.r.n_star\source\repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.dll
+C:\Users\B.o.r.n_star\source\repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.Abstractions.dll
+C:\Users\B.o.r.n_star\source\repos\Vikas-22\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.HttpRequestDurations.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\appsettings.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.exe
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.deps.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.runtimeconfig.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Metrices-psql.pdb
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Core.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Concurrency.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Core.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Configuration.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Hosting.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Ascii.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Json.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Prometheus.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.Abstractions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.HttpRequestDurations.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.AssemblyReference.cache
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfoInputs.cache
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfo.cs
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CoreCompileInputs.cache
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.Metrices-psql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.build.Metrices-psql.props
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Metrices-psql.props
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Metrices-psql.props
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\scopedcss\bundle\Metrices-psql.styles.css
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CopyComplete
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\refint\Metrices-psql.dll
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.pdb
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\Metrices-psql.genruntimeconfig.cache
+C:\Users\vg3\source\repos\update\Metrics-psql\Metrics-psql\Metrices-psql\obj\Debug\net6.0\ref\Metrices-psql.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\appsettings.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Metrices-psql.exe
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Metrices-psql.deps.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Metrices-psql.runtimeconfig.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Metrices-psql.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Metrices-psql.pdb
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Core.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Concurrency.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Core.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Configuration.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Hosting.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Ascii.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Json.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Prometheus.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Humanizer.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\MessagePack.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Npgsql.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.Abstractions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.HttpRequestDurations.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.AssemblyReference.cache
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfoInputs.cache
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfo.cs
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CoreCompileInputs.cache
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.Metrices-psql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.build.Metrices-psql.props
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Metrices-psql.props
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Metrices-psql.props
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\scopedcss\bundle\Metrices-psql.styles.css
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CopyComplete
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\refint\Metrices-psql.dll
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.pdb
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\Metrices-psql.genruntimeconfig.cache
+C:\Users\RAHULAPA\Source\Repos\Metrics-psqlNew\Metrices-psql\obj\Debug\net6.0\ref\Metrices-psql.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\appsettings.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Metrices-psql.exe
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Metrices-psql.deps.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Metrices-psql.runtimeconfig.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Metrices-psql.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Metrices-psql.pdb
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Core.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Concurrency.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Core.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Configuration.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Extensions.Hosting.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Ascii.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Json.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\App.Metrics.Formatters.Prometheus.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\MessagePack.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Npgsql.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.Abstractions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Prometheus.Client.HttpRequestDurations.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.AssemblyReference.cache
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfoInputs.cache
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.AssemblyInfo.cs
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CoreCompileInputs.cache
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.Metrices-psql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.build.Metrices-psql.props
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Metrices-psql.props
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Metrices-psql.props
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\scopedcss\bundle\Metrices-psql.styles.css
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.csproj.CopyComplete
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\refint\Metrices-psql.dll
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.pdb
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\Metrices-psql.genruntimeconfig.cache
+C:\Users\SARAKSHI\Documents\new code\Metrices-psql\obj\Debug\net6.0\ref\Metrices-psql.dll
